@@ -55,12 +55,12 @@ a {
 	font-weight: 700;
 	color: #ffffff;
 	background-color: #3a8bcd;
-
-	margin: 15px 0px 0px 920px;
+	margin: 25px 0px 0px 920px;
 	width: 150px;
 	height: 40px;
 	border-radius: 5px;
 	text-align: center;
+	line-height: 40px;
 }
 
 .subscribe-form .section-heading h1 {
